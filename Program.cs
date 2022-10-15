@@ -6,11 +6,13 @@ int answer = rand.Next(1, 101);
 
 WriteLine("Let's Play a guessing game!");
 
+// Starts loop
 while (true)
 {
     int guess;
     Write("Enter a number between 1 and 100: ");
 
+    // Try to parse the string into an int
     try
     {
         guess = int.Parse(ReadLine());
@@ -21,6 +23,7 @@ while (true)
         continue;
     }
 
+    // Guess is not a valid number
     if (guess > 100 || guess < 1)
     {
         WriteLine("Your guess needs to be between 1 and 100.");
@@ -35,6 +38,7 @@ while (true)
     {
         WriteLine($"\nYour guess of {guess} is too high.");
     }
+    // Winner!
     else
     {
         WriteLine();
