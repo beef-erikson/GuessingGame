@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\beef_\\Desktop\\Hacktoberfest 2022\\GuessingGame\\GuessingGame.csproj": {}
+    "c:\\Users\\beef_\\Desktop\\Hacktoberfest 2022\\GuessingGame\\GuessingGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\beef_\\Desktop\\Hacktoberfest 2022\\GuessingGame\\GuessingGame.csproj": {
+    "c:\\Users\\beef_\\Desktop\\Hacktoberfest 2022\\GuessingGame\\GuessingGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\beef_\\Desktop\\Hacktoberfest 2022\\GuessingGame\\GuessingGame.csproj",
+        "projectUniqueName": "c:\\Users\\beef_\\Desktop\\Hacktoberfest 2022\\GuessingGame\\GuessingGame.csproj",
         "projectName": "GuessingGame",
-        "projectPath": "C:\\Users\\beef_\\Desktop\\Hacktoberfest 2022\\GuessingGame\\GuessingGame.csproj",
+        "projectPath": "c:\\Users\\beef_\\Desktop\\Hacktoberfest 2022\\GuessingGame\\GuessingGame.csproj",
         "packagesPath": "C:\\Users\\beef_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\beef_\\Desktop\\Hacktoberfest 2022\\GuessingGame\\obj\\",
+        "outputPath": "c:\\Users\\beef_\\Desktop\\Hacktoberfest 2022\\GuessingGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
