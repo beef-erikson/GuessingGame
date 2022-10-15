@@ -19,7 +19,7 @@ while (true)
     }
     catch
     {
-        WriteLine("Your guess needs to be a number.");
+        WriteLine("\nYour guess needs to be a number.");
         continue;
     }
 
