@@ -42,7 +42,9 @@ while (true)
     else
     {
         WriteLine();
-        WriteLine($"You guessed correctly! The number is {answer}! Hit enter to close.");
+        WriteLine();
+        WriteLine($"You guessed correctly! The number is {answer}!");
+        WriteLine($"Hit enter to close.");
         ReadLine();
         break;
     }
